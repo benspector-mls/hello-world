@@ -1,3 +1,3 @@
 # hello-world
 
-My name is **Benji Spector**!
+My name is **Benjamin Spector**!
